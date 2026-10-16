@@ -47,7 +47,18 @@ Click on the horizontal line:
 Then select each line you want copied. It should look like this. 
 <img width="437" height="348" alt="image" src="https://github.com/user-attachments/assets/47ad3ee2-2128-4003-b07c-a4e1cef92b41" />
 
+No need to set the angles to 45 because the lines were mirrored and thus have the same measurements. 
 
+Then use your trim tool to get rid of the lines.
+<img width="122" height="75" alt="image" src="https://github.com/user-attachments/assets/7dabcc1f-719c-471a-ad47-c18c2021627c" />
+
+It would have been hell to explain it, so here are vids on what to trim exactly
+: https://github.com/user-attachments/assets/ca530aa0-a0e4-4bd3-846b-a68abcdea92f
+
+https://github.com/user-attachments/assets/375357c9-2003-421d-b615-721b97f4ddde
+
+Then extrude it by 0.3cm
+<img width="861" height="378" alt="image" src="https://github.com/user-attachments/assets/4ce5e700-ea8f-4f34-b9a2-698ad878f84d" />
 
 
 

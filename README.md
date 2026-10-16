@@ -2,7 +2,7 @@
 
 
 
-So for my Hack Life week two, I decided to make a bay blade! 
+For my Hack Life week two, I decided to make a bay blade! 
 I felt nostalgic and decided to go through with that (also, it may have to do with the fact that 
 I found a really specific tutorial on Onshape for one on YouTube soooo)
 

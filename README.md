@@ -100,6 +100,8 @@ Then select the innermost side of the shape and the circle we just made to link 
 
 Finally, drag the small Sketch you made to the circle so that they touch like this. 
 <img width="865" height="461" alt="Screenshot 2026-10-17 000810" src="https://github.com/user-attachments/assets/d8c36f1a-6bae-4b5b-9629-d1c31d28d9b2" />
+Then use the Trim tool to remove the parts of the circle I didn't need.
+
 
 Then extrude this shape you have just made to REMOVE. Select a second ending to extrude on both sides. Finally, extrude with a thickness of 0.0025cm. 
 <img width="190" height="402" alt="image" src="https://github.com/user-attachments/assets/1a2b93c5-95d4-4952-9e6a-da19e60f7998" />

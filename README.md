@@ -11,7 +11,7 @@ So, for starters, here is the link to the video I followed so you can have a gli
 https://www.youtube.com/watch?v=WSZ77soLKdg
 
 # Making the Attack Ring 
-Start by making 3 circles on your top plane. You can access your top plane by clicking on N. Then go to Sketch.
+Start by making 3 circles on your top plane. To access your top plane, press N, then go to Sketch.
 <img width="442" height="53" alt="image" src="https://github.com/user-attachments/assets/ea57b425-977f-40f0-931d-2da4045b67bc"/>
 
  You will have to select a sketch plane to choose your tool. Select the top plane.
@@ -105,9 +105,13 @@ Then extrude this shape you have just made to REMOVE. Select a second ending to 
 <img width="190" height="402" alt="image" src="https://github.com/user-attachments/assets/1a2b93c5-95d4-4952-9e6a-da19e60f7998" />
 
 FINALLY, use the fillet tool to round ONLY the outer corners and the top of the extruded shape. 
-<img width="302" height="219" alt="Screenshot 2026-10-17 003212" src="https://github.com/user-attachments/assets/f2b49b02-1fb5-4738-ae73-130576615e47" />
+
+
+<img width="302" height="219" alt="Screenshot 2026-10-17 003212" src="https://github.com/user-attachments/assets/f2b49b02-1fb5-4738-ae73-130576615e47"/>
 
 Then you're done with the attack ring!!!
+
+<img width="563" height="361" alt="image" src="https://github.com/user-attachments/assets/d0e409d8-7a5e-4d3c-9bed-b57b764c53d0" />
 
 
 

@@ -1,4 +1,5 @@
 # BEYBLADE TIME!!!
+<img width="414" height="313" alt="Screenshot 2026-10-18 233531" src="https://github.com/user-attachments/assets/32cc297e-b09f-4a17-b7d8-c7fb3b7d0623" />
 
 
 
@@ -10,7 +11,12 @@ So, for starters, here is the link to the video I followed so you can have a gli
 
 https://www.youtube.com/watch?v=WSZ77soLKdg
 
-# Making the Attack Ring 
+# Making the Attack Ring General Template  
+
+<img width="732" height="492" alt="Screenshot 2026-10-18 181356" src="https://github.com/user-attachments/assets/1b9d9326-04ac-478e-bd3a-5df54bf65ffd" />
+
+
+
 Start by making 3 circles on your top plane. To access your top plane, press N, then go to Sketch.
 <img width="442" height="53" alt="image" src="https://github.com/user-attachments/assets/ea57b425-977f-40f0-931d-2da4045b67bc"/>
 
@@ -111,14 +117,19 @@ FINALLY, use the fillet tool to round ONLY the outer corners and the top of the 
 
 <img width="302" height="219" alt="Screenshot 2026-10-17 003212" src="https://github.com/user-attachments/assets/f2b49b02-1fb5-4738-ae73-130576615e47"/>
 
-Then you're done with the attack ring!!!
+Then you're done with the first half. 
 
 <img width="563" height="361" alt="image" src="https://github.com/user-attachments/assets/d0e409d8-7a5e-4d3c-9bed-b57b764c53d0" />
 
+Redo the same steps on the other side
 
+Then we need to complete our attack ring!
+Start by selecting the surface of the ring and adding a circle and a rectangle 
+<img width="630" height="429" alt="Screenshot 2026-10-18 174149" src="https://github.com/user-attachments/assets/f1ce2821-d026-4472-8d7b-d8431ca77bb1" />
 
-
-
+<img width="652" height="336" alt="Screenshot 2026-10-17 014409" src="https://github.com/user-attachments/assets/f55e35d5-d51b-4623-9dac-4050bc3492bb" />
+<img width="642" height="440" alt="Screenshot 2026-10-18 174705" src="https://github.com/user-attachments/assets/6f4cff4e-3deb-42c9-97da-0274a6db17a6" />
+<img width="526" height="362" alt="Screenshot 2026-10-18 174212" src="https://github.com/user-attachments/assets/f26520ce-4596-4a66-96b1-828afe1ce46f" />
 
 
 

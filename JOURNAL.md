@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 2 | 11.12h | 2 |
+| Week 2 | Tier 2 | 5.35h | 2 |
 
 ## Contents
 
@@ -109,6 +109,8 @@ Then I was done with the attack ring, well half of it !!!
 
 ### 2026-10-18 – Work session
 
-**6.12h**
+**0.35h**
 
-[Timelapse](https://lookout.hackclub.com/api/media/2ecd794e-da36-4a48-ac1e-462887895a3c/video.mp4)
+Work session
+
+[Timelapse](https://lookout.hackclub.com/api/media/6966f90b-ab85-4ec5-8af8-bed4a6e8a0ef/video.mp4)

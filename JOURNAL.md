@@ -10,14 +10,14 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 2 | 13.47h | 4 |
+| Week 2 | Tier 2 | 14.47h | 4 |
 
 ## Contents
 
 1. [2026-10-16 – I thought for this journal entry I would use parts of my Read Me because I have been continuously updating it as I work. In total I spent 3h30 on the first component of my Beyblade (the attack ring) a](#2026-10-16-i-thought-for-this-journal-entry-i-would-use-part)
 2. [2026-10-18 – Work session](#2026-10-18-work-session)
 3. [2026-10-18 – I just worrked on adding more Beyblade esque details to my 3d drawing (that was what I included in my time lap](#2026-10-18-i-just-worrked-on-adding-more-beyblade-esque-deta)
-4. [2026-10-18 – fcghjkl;kjhgfghjklkjhgfghjkljhgfhjkljhghjkjhghjklkjhghjkjhghjkljhgjkljhghjkkjhghjhgghjkhghjhghjhghjhghjhghjgjghjhgjgjgjgjgjgjhghjhghjhghjhgjhghjgjgjgjghjghghjghjgjhgjhgjghjhjghjghjghjhghjhghhhuhuguggy](#2026-10-18-fcghjklkjhgfghjklkjhgfghjkljhgfhjkljhghjkjhghjklk)
+4. [2026-10-18 – So I had to edit my README, and that's what I did over the last 3 hours. As usual, GitHub was, as is customary in its usage, an infernal machine that would have been a medieval torture device if it ha](#2026-10-18-so-i-had-to-edit-my-readme-and-thats-what-i-did-o)
 
 ## Design
 
@@ -125,12 +125,27 @@ I just worrked on adding more Beyblade esque details to my 3d drawing (that was 
 
 [Timelapse](https://lookout.hackclub.com/api/media/2ecd794e-da36-4a48-ac1e-462887895a3c/video.mp4)
 
-### 2026-10-18 – fcghjkl;kjhgfghjklkjhgfghjkljhgfhjkljhghjkjhghjklkjhghjkjhghjkljhgjkljhghjkkjhghjhgghjkhghjhghjhghjhghjhghjgjghjhgjgjgjgjgjgjhghjhghjhghjhgjhghjgjgjgjghjghghjghjgjhgjhgjghjhjghjghjghjhghjhghhhuhuguggy
+### 2026-10-18 – So I had to edit my README, and that's what I did over the last 3 hours. As usual, GitHub was, as is customary in its usage, an infernal machine that would have been a medieval torture device if it ha
 
-**2h**
+**3h**
 
-fcghjkl;kjhgfghjklkjhgfghjkljhgfhjkljhghjkjhghjklkjhghjkjhghjkljhgjkljhghjkkjhghjhgghjkhghjhghjhghjhghjhghjgjghjhgjgjgjgjgjgjhghjhghjhghjhgjhghjgjgjgjghjghghjghjgjhgjhgjghjhjghjghjghjhghjhghhhuhuguggygggygbhvvvvvvv
+So I had to edit my README, and that's what I did over the last 3 hours. As usual, GitHub was, as is customary in its usage, an infernal machine that would have been a medieval torture device if it had existed in medieval times. It wouldn't upload my images, and it took me over AN HOUR to figure it out.
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/mZKFEMEIAEQ1UpTgazjp9xUySy88SbqC/1224fed8444ea71e622f0e93b7d65012be51702e571df8a659a458bec6159b83.png)
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/mZKFEMEIAEQ1UpTgazjp9xUySy88SbqC/1d3f1c355497a77b76dd30aabf06e351eb3a65026224f1bc81f31cf405ec7a76.png)
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/mZKFEMEIAEQ1UpTgazjp9xUySy88SbqC/6d2c2073d5936e8e2301b9bc56fd01269310a01b56dce853fc96210123907756.png)
+And if my suffering wasn't enough already, ALL IT TOOK WAS TO CHANGE THE NAME OF MY REPO (wk-2-cad to wk2cad). I had to Google that. So not only did GitHub humiliate me, but it also wasted my internet connection.
+
+Fortunately, this hiccup only made me want to throw myself off a cliff, so I went back to editing my README. I added the screenshots I took today as I completed my skinny Beyblade (which I realized I spelled as BAYbled, all throughout my work, which should be enough experience for me to work in the Bay Area)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/mZKFEMEIAEQ1UpTgazjp9xUySy88SbqC/62e0cf3c1975c692712875cf947f520ff9203bac1ebb0ac6895450dc9b4907db.png)
+
+Then 2 hours later, I finally finished my README. It took me a lot of time because I took tons of screenshots as I worked, so I had to constantly go back between the 6-part tutorial and my images to make detailed instructions that future victims would have to follow.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/mZKFEMEIAEQ1UpTgazjp9xUySy88SbqC/d679df52e0178d0b66e725779298b1fd3bed6c4e4b50173750a87ee2432a6562.png)
+
+Then boom, we are done with the README.
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/mZKFEMEIAEQ1UpTgazjp9xUySy88SbqC/ce46d31e8175d01896761fa9cf478d7c774efe1517d7637a79b877dc15a5eb43.png)
+
+Finally, I just had to figure out how to download my files and upload them
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/mZKFEMEIAEQ1UpTgazjp9xUySy88SbqC/27b5d90e98684f5b072e9a639f49d3090f1dcfd6644bd48f17862555d0c232fd.png)
